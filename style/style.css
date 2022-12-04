@@ -1,0 +1,30 @@
+body{
+    background-color: lightblue;
+}
+.heading{
+    background-color: burlywood;
+    text-align: center;
+   
+}
+#main{
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: red;
+}
+.img {
+    margin: -159px 0px 0px 257px;
+}
+.emp-table{
+    padding:10px
+    
+}
+table, th, td {
+    border: 1px solid;
+  }
+  
+  table {
+    width: 100%;
+  }
+#alternate-row{
+    background-color: gray;
+}
